@@ -28,8 +28,7 @@ En esta ruta de aprendizaje, te sumergirás en el mundo de la administración de
   - Descripción: Sumérgete en el mundo de la administración de servidores Linux, aprende a instalar y configurar el sistema operativo y gestiona usuarios, permisos y servicios.
 
 
-
-- Curso de Administración de Servidores Linux: Manejo de Recursos
+- [Curso de Administración de Servidores Linux: Manejo de Recursos>>](./01-Manejo-Recursos/README.md) 
   - Duración: 2 horas de contenido, 16 horas de práctica
   - Descripción: Aprende a optimizar el rendimiento de tu servidor Linux, gestionar los recursos del sistema, monitorear y solucionar problemas comunes.
 
